@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zaki</h1>
 <h3 align="center">A passionate Mern Stack Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-zaki&label=Profile%20views&color=0e75b6&style=flat" alt="its-zaki" /> </p>
-
 - 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://its-zaki.github.io/porfolio/](https://its-zaki.github.io/porfolio/)
@@ -29,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-zaki&show_icons=true&locale=en" alt="its-zaki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-zaki&" alt="its-zaki" /></p>
+
