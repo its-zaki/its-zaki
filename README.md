@@ -2,7 +2,7 @@
 <h3 align="center">A PASSIONATED SOFTWARE DEVELOPER</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-zaki&label=Profile%20views&color=0e75b6&style=flat" alt="its-zaki" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itszaki&label=Profile%20views&color=0e75b6&style=flat" alt="itszaki" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
@@ -17,6 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-zaki-younus-100811279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-zaki-younus-100811279/" height="30" width="40" /></a>
+<a href="https://fb.com/its zaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="its zaki" height="30" width="40" /></a>
 <a href="https://instagram.com/its-zaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its-zaki" height="30" width="40" /></a>
 </p>
 
@@ -26,8 +27,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/its-zaki"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="its-zaki" /></a><a href="https://ko-fi.com/its-zaki"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="its-zaki" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-zaki&show_icons=true&locale=en&layout=compact" alt="its-zaki" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itszaki&show_icons=true&locale=en&layout=compact" alt="itszaki" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-zaki&show_icons=true&locale=en" alt="its-zaki" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itszaki&show_icons=true&locale=en" alt="itszaki" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-zaki&" alt="its-zaki" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itszaki&" alt="itszaki" /></p>
