@@ -1,4 +1,4 @@
-<img align="center" src="https://i.ibb.co/VWDC8S5/github-header-image-5.png" alt="github-header-image-5" border="0">
+![logo](https://github.com/its-zaki/its-zaki/blob/main/github-header-image%20(5).png)
 <h3 align="center">A PASSIONATED SOFTWARE DEVELOPER</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
