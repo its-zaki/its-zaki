@@ -6,8 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://its-zaki.github.io/porfolio/](https://its-zaki.github.io/porfolio/)
-
+- 👨‍💻 All of my projects are available at https://its-zaki.github.io/Personal-Portfolio-/
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT**
 
 - 📫 How to reach me **zakiyounus789@gmail.com**
